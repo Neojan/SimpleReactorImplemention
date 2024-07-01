@@ -22,6 +22,7 @@ https://blog.csdn.net/u012398613/article/details/51964897
 
 ![image](https://github.com/Neojan/SimpleReactorImplemention/assets/13540636/2f2ab4ab-05da-4645-afe8-a3bd9464c752)
 
+![image](https://github.com/Neojan/SimpleReactorImplemention/assets/13540636/bd7f0465-4ad3-484d-a5d5-5d65d564846e)
 
 
 ## epoll 标志位
