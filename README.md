@@ -14,9 +14,14 @@ You can use them in this way:
 >./reactor_server 127.0.0.1 6852   
 >./reactor_client 127.0.0.1 6852   
 
-## 
+## 参考链接
 
 https://blog.csdn.net/u012398613/article/details/51964897
+
+## 类图
+
+![image](https://github.com/Neojan/SimpleReactorImplemention/assets/13540636/2f2ab4ab-05da-4645-afe8-a3bd9464c752)
+
 
 ## epoll 标志位
 
